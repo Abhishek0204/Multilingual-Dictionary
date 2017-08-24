@@ -1,0 +1,76 @@
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\bin\Debug\WDictionary.exe.config
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\bin\Debug\WDictionary.exe
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\bin\Debug\WDictionary.pdb
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\WDictionary.csprojResolveAssemblyReference.cache
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\MainWindow.baml
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\MainWindow.g.cs
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\App.g.cs
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\WDictionary_MarkupCompile.cache
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\WDictionary.g.resources
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\WDictionary.Properties.Resources.resources
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\WDictionary.csproj.GenerateResource.Cache
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\WDictionary.exe
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\WDictionary.pdb
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\EnglishToEnglish.baml
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\EnglishToEnglish.g.cs
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\EnglishToBengali.baml
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\EnglishToHindi.baml
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\EnglishToBengali.g.cs
+c:\users\abhi3\documents\visual studio 2013\Projects\WDictionary\WDictionary\obj\Debug\EnglishToHindi.g.cs
+G:\WDictionary\WDictionary\bin\Debug\WDictionary.exe.config
+G:\WDictionary\WDictionary\obj\Debug\WDictionary.exe
+G:\WDictionary\WDictionary\obj\Debug\WDictionary.pdb
+G:\WDictionary\WDictionary\bin\Debug\WDictionary.exe
+G:\WDictionary\WDictionary\bin\Debug\WDictionary.pdb
+G:\WDictionary\WDictionary\obj\Debug\WDictionary.csprojResolveAssemblyReference.cache
+G:\WDictionary\WDictionary\obj\Debug\EnglishToBengali.baml
+G:\WDictionary\WDictionary\obj\Debug\EnglishToEnglish.baml
+G:\WDictionary\WDictionary\obj\Debug\EnglishToHindi.baml
+G:\WDictionary\WDictionary\obj\Debug\MainWindow.baml
+G:\WDictionary\WDictionary\obj\Debug\EnglishToBengali.g.cs
+G:\WDictionary\WDictionary\obj\Debug\EnglishToEnglish.g.cs
+G:\WDictionary\WDictionary\obj\Debug\EnglishToHindi.g.cs
+G:\WDictionary\WDictionary\obj\Debug\MainWindow.g.cs
+G:\WDictionary\WDictionary\obj\Debug\App.g.cs
+G:\WDictionary\WDictionary\obj\Debug\WDictionary_MarkupCompile.cache
+G:\WDictionary\WDictionary\obj\Debug\WDictionary.g.resources
+G:\WDictionary\WDictionary\obj\Debug\WDictionary.Properties.Resources.resources
+G:\WDictionary\WDictionary\obj\Debug\WDictionary.csproj.GenerateResource.Cache
+D:\Final Year Project\Project\WDictionary\WDictionary\bin\Debug\WDictionary.exe.config
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\WDictionary.exe
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\WDictionary.pdb
+D:\Final Year Project\Project\WDictionary\WDictionary\bin\Debug\WDictionary.exe
+D:\Final Year Project\Project\WDictionary\WDictionary\bin\Debug\WDictionary.pdb
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\WDictionary.csprojResolveAssemblyReference.cache
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\EnglishToBengali.baml
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\EnglishToEnglish.baml
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\EnglishToHindi.baml
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\MainWindow.baml
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\EnglishToBengali.g.cs
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\EnglishToEnglish.g.cs
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\EnglishToHindi.g.cs
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\MainWindow.g.cs
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\App.g.cs
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\WDictionary_MarkupCompile.cache
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\WDictionary.g.resources
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\WDictionary.Properties.Resources.resources
+D:\Final Year Project\Project\WDictionary\WDictionary\obj\Debug\WDictionary.csproj.GenerateResource.Cache
+D:\personal project\WDictionary\WDictionary\bin\Debug\WDictionary.exe.config
+D:\personal project\WDictionary\WDictionary\obj\Debug\WDictionary.exe
+D:\personal project\WDictionary\WDictionary\obj\Debug\WDictionary.pdb
+D:\personal project\WDictionary\WDictionary\bin\Debug\WDictionary.exe
+D:\personal project\WDictionary\WDictionary\bin\Debug\WDictionary.pdb
+D:\personal project\WDictionary\WDictionary\obj\Debug\WDictionary.csprojResolveAssemblyReference.cache
+D:\personal project\WDictionary\WDictionary\obj\Debug\EnglishToBengali.baml
+D:\personal project\WDictionary\WDictionary\obj\Debug\EnglishToEnglish.baml
+D:\personal project\WDictionary\WDictionary\obj\Debug\EnglishToHindi.baml
+D:\personal project\WDictionary\WDictionary\obj\Debug\MainWindow.baml
+D:\personal project\WDictionary\WDictionary\obj\Debug\EnglishToBengali.g.cs
+D:\personal project\WDictionary\WDictionary\obj\Debug\EnglishToEnglish.g.cs
+D:\personal project\WDictionary\WDictionary\obj\Debug\EnglishToHindi.g.cs
+D:\personal project\WDictionary\WDictionary\obj\Debug\MainWindow.g.cs
+D:\personal project\WDictionary\WDictionary\obj\Debug\App.g.cs
+D:\personal project\WDictionary\WDictionary\obj\Debug\WDictionary_MarkupCompile.cache
+D:\personal project\WDictionary\WDictionary\obj\Debug\WDictionary.g.resources
+D:\personal project\WDictionary\WDictionary\obj\Debug\WDictionary.Properties.Resources.resources
+D:\personal project\WDictionary\WDictionary\obj\Debug\WDictionary.csproj.GenerateResource.Cache
